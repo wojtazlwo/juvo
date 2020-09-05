@@ -1,34 +1,34 @@
+* {
+  box-sizing: border-box;
+}
 body
 {
   font-family: 'Anonymous Pro', monospace;
+  margin: 0;
 }
 header
 {
-  height: 100vh;
-}
-.logo
-{
-  display: block;
-  margin: 0 auto;
-  max-width: 75%;
+  min-height: 100vh;
 }
 .black
 {
   background-color: black;
-  height: 100vh;
+  min-height: 100vh;
+  color: white;
 }
 .white
 {
-  height: 100vh;
+  min-height: 100vh;
 }
-.img-left
+img
 {
-  max-height: 100%;
-  max-width: 100%
-}
-.img-right
-{
-  max-height: 100%;
+  display: block;
   max-width: 100%;
-  float: right;
+  max-height: 100%;
+}
+#logo
+{
+  display: block;
+  margin: 0 auto;
+  max-width: 75%;
 }
