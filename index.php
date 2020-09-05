@@ -23,23 +23,24 @@
     </header>
     <main>
       <section class="black">
-        <div class = "heading">
-          <h1>Kim jesteśmy?</h1>
-        <div/>
-        <div class = "message">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam est odio, finibus quis tempor sed, placerat eu nisl. Nunc non orci sed magna laoreet lobortis pulvinar volutpat enim. Donec diam urna, tempor eu sagittis sed, consequat et quam. Nullam urna lacus, faucibus non purus at, ultrices porttitor eros. Pellentesque dapibus sollicitudin elit, sed hendrerit ligula mattis ac. Curabitur semper feugiat erat id malesuada. Nunc bibendum tincidunt erat, sed tempor dolor luctus eu. Ut id egestas justo. Aliquam erat volutpat.
-        <div/>
-        <img src="statue.png">
+        <div class="message">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porttitor lacus quis est hendrerit consectetur. In consequat arcu tellus, id lobortis lectus varius quis. Nulla gravida efficitur elit et volutpat. Morbi fringilla vitae enim ut aliquet. Nunc eu velit et nibh efficitur tristique. Curabitur blandit odio eu sollicitudin dictum. Etiam ipsum odio, eleifend quis leo id, tempus tincidunt leo. Maecenas in massa quam. Mauris nec nisl felis. Sed tincidunt ligula eget turpis iaculis cursus. Donec vel nibh ac neque fringilla placerat volutpat eu justo. Nullam congue, massa ut aliquet hendrerit, augue libero vehicula nisi, ut gravida leo lectus vel erat.
+        </div>
+        <img src="statue.png" class="img-left">
       </section>
       <section class="white">
-        <div class = "heading">
-          <h1>Kim jesteśmy?</h1>
-        <div/>
-        <div class = "message">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam est odio, finibus quis tempor sed, placerat eu nisl. Nunc non orci sed magna laoreet lobortis pulvinar volutpat enim. Donec diam urna, tempor eu sagittis sed, consequat et quam. Nullam urna lacus, faucibus non purus at, ultrices porttitor eros. Pellentesque dapibus sollicitudin elit, sed hendrerit ligula mattis ac. Curabitur semper feugiat erat id malesuada. Nunc bibendum tincidunt erat, sed tempor dolor luctus eu. Ut id egestas justo. Aliquam erat volutpat.
-        <div/>
-        <img src="deer.png">
+        <div class="message">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porttitor lacus quis est hendrerit consectetur. In consequat arcu tellus, id lobortis lectus varius quis. Nulla gravida efficitur elit et volutpat. Morbi fringilla vitae enim ut aliquet. Nunc eu velit et nibh efficitur tristique. Curabitur blandit odio eu sollicitudin dictum. Etiam ipsum odio, eleifend quis leo id, tempus tincidunt leo. Maecenas in massa quam. Mauris nec nisl felis. Sed tincidunt ligula eget turpis iaculis cursus. Donec vel nibh ac neque fringilla placerat volutpat eu justo. Nullam congue, massa ut aliquet hendrerit, augue libero vehicula nisi, ut gravida leo lectus vel erat.
+        </div>
+        <img src="deer.png" class="img-right">
       </section>
+      <section class="black">
+        <div class="message">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porttitor lacus quis est hendrerit consectetur. In consequat arcu tellus, id lobortis lectus varius quis. Nulla gravida efficitur elit et volutpat. Morbi fringilla vitae enim ut aliquet. Nunc eu velit et nibh efficitur tristique. Curabitur blandit odio eu sollicitudin dictum. Etiam ipsum odio, eleifend quis leo id, tempus tincidunt leo. Maecenas in massa quam. Mauris nec nisl felis. Sed tincidunt ligula eget turpis iaculis cursus. Donec vel nibh ac neque fringilla placerat volutpat eu justo. Nullam congue, massa ut aliquet hendrerit, augue libero vehicula nisi, ut gravida leo lectus vel erat.
+        </div>
+        <img src="lighthouse.png" class="img-left">
+      </section>
+
     </main>
 
 
