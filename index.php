@@ -23,31 +23,43 @@
     </header>
     <main>
       <section class="black">
+        <div class="image">
+          <img src="statue.png" class="img-right">
+        </div>
         <div class="text">
-          <p class="line-1 anim-typewriter">Kim jesteśmy?</p>
-          <div class="message">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porttitor lacus quis est hendrerit consectetur. In consequat arcu tellus, id lobortis lectus varius quis. Nulla gravida efficitur elit et volutpat. Morbi fringilla vitae enim ut aliquet. Nunc eu velit et nibh efficitur tristique. Curabitur blandit odio eu sollicitudin dictum. Etiam ipsum odio, eleifend quis leo id, tempus tincidunt leo. Maecenas in massa quam. Mauris nec nisl felis. Sed tincidunt ligula eget turpis iaculis cursus. Donec vel nibh ac neque fringilla placerat volutpat eu justo. Nullam congue, massa ut aliquet hendrerit, augue libero vehicula nisi, ut gravida leo lectus vel erat.
+          <div class ="title">
+            <h1>Kim jesteśmy?</h1>
+          </div>
+          <div class ="message">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend arcu ac convallis aliquam. Cras congue viverra lacinia. Aliquam fringilla lacus at sapien facilisis consequat. Duis pharetra elit quis tristique facilisis. Nulla euismod, lectus quis porttitor congue, enim risus fringilla felis, auctor egestas risus arcu eget mauris. Suspendisse a enim at justo suscipit aliquet in ac nulla. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse pellentesque enim id felis gravida, quis elementum sem vulputate. In ut fringilla odio. Sed ut velit ut enim rhoncus iaculis. Sed ut mauris aliquam, pellentesque elit a, volutpat turpis. Cras sed nibh condimentum, feugiat ssem non, ultrices ipsum.
           </div>
         </div>
-        <img src="statue.png" class="img-left">
       </section>
       <section class="white">
         <div class="text">
-          <p class="line-1 anim-typewriter">Kim jesteśmy?</p>
-          <div class="message">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porttitor lacus quis est hendrerit consectetur. In consequat arcu tellus, id lobortis lectus varius quis. Nulla gravida efficitur elit et volutpat. Morbi fringilla vitae enim ut aliquet. Nunc eu velit et nibh efficitur tristique. Curabitur blandit odio eu sollicitudin dictum. Etiam ipsum odio, eleifend quis leo id, tempus tincidunt leo. Maecenas in massa quam. Mauris nec nisl felis. Sed tincidunt ligula eget turpis iaculis cursus. Donec vel nibh ac neque fringilla placerat volutpat eu justo. Nullam congue, massa ut aliquet hendrerit, augue libero vehicula nisi, ut gravida leo lectus vel erat.
+          <div class ="title">
+            <h1>Kim jesteśmy?</h1>
+          </div>
+          <div class ="message">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend arcu ac convallis aliquam. Cras congue viverra lacinia. Aliquam fringilla lacus at sapien facilisis consequat. Duis pharetra elit quis tristique facilisis. Nulla euismod, lectus quis porttitor congue, enim risus fringilla felis, auctor egestas risus arcu eget mauris. Suspendisse a enim at justo suscipit aliquet in ac nulla. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse pellentesque enim id felis gravida, quis elementum sem vulputate. In ut fringilla odio. Sed ut velit ut enim rhoncus iaculis. Sed ut mauris aliquam, pellentesque elit a, volutpat turpis. Cras sed nibh condimentum, feugiat ssem non, ultrices ipsum.
           </div>
         </div>
-        <img src="deer.png" class="img-right">
+          <div class="image">
+            <img src="deer.png" class="img-left">
+          </div>
       </section>
       <section class="black">
         <div class="text">
-          <p class="line-1 anim-typewriter">Kim jesteśmy?</p>
-          <div class="message">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porttitor lacus quis est hendrerit consectetur. In consequat arcu tellus, id lobortis lectus varius quis. Nulla gravida efficitur elit et volutpat. Morbi fringilla vitae enim ut aliquet. Nunc eu velit et nibh efficitur tristique. Curabitur blandit odio eu sollicitudin dictum. Etiam ipsum odio, eleifend quis leo id, tempus tincidunt leo. Maecenas in massa quam. Mauris nec nisl felis. Sed tincidunt ligula eget turpis iaculis cursus. Donec vel nibh ac neque fringilla placerat volutpat eu justo. Nullam congue, massa ut aliquet hendrerit, augue libero vehicula nisi, ut gravida leo lectus vel erat.
+          <div class ="title">
+            <h1>Kim jesteśmy?</h1>
+          </div>
+          <div class ="message">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend arcu ac convallis aliquam. Cras congue viverra lacinia. Aliquam fringilla lacus at sapien facilisis consequat. Duis pharetra elit quis tristique facilisis. Nulla euismod, lectus quis porttitor congue, enim risus fringilla felis, auctor egestas risus arcu eget mauris. Suspendisse a enim at justo suscipit aliquet in ac nulla. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse pellentesque enim id felis gravida, quis elementum sem vulputate. In ut fringilla odio. Sed ut velit ut enim rhoncus iaculis. Sed ut mauris aliquam, pellentesque elit a, volutpat turpis. Cras sed nibh condimentum, feugiat ssem non, ultrices ipsum.
           </div>
         </div>
-        <img src="lighthouse.png" class="img-left">
+        <div class="image">
+          <img src="lighthouse.png" class="img-right">
+        </div>
       </section>
 
     </main>
